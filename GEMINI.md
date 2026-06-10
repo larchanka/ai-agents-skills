@@ -18,7 +18,7 @@ docs/         → Руководства по настройке и практи
 **Определение (Define):** spec-driven-development
 **Разработка (Build):** frontend-ui-engineering
 **Проверка (Verify):** debugging-and-error-recovery
-**Ревью (Review):** code-review-and-quality, performance-optimization, security-and-hardening
+**Ревью (Review):** code-review-and-quality, performance-optimization, security-and-hardening, humanizer
 **Поставка (Ship):** ci-cd-and-automation, git-conventions
 
 ## Соглашения (Conventions)
