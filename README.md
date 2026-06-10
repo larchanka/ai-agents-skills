@@ -1,4 +1,4 @@
-# Коллекция инженерных навыков и ИИ-агентов (agent-skills)
+# Коллекция инженерных навыков и ИИ-агентов
 
 Репозиторий представляет собой готовую библиотеку настроек, системных ролей (агентов), промптов и сценариев работы (навыков) для интеграции ИИ-ассистентов (Claude Code, Cursor, OpenCode и др.) в рабочий процесс веб-разработки. 
 
@@ -67,6 +67,6 @@
 
 ## Быстрый старт
 
-1. Изучи [Руководство по настройке](file:///Users/lachanka/Projects/skills-propmts-agents/docs/setup-guide.md), чтобы интегрировать эти навыки в свой рабочий инструмент (Claude Code, Cursor или claude.ai).
-2. Настрой [Model Context Protocol (MCP)](file:///Users/lachanka/Projects/skills-propmts-agents/docs/mcp-setup.md) для предоставления ИИ доступа к базе данных или репозиториям.
-3. Выполни [Практические упражнения](file:///Users/lachanka/Projects/skills-propmts-agents/docs/exercises.md), чтобы увидеть работу агентов вживую на реальных примерах.
+1. Изучи [Руководство по настройке](./skills-propmts-agents/docs/setup-guide.md), чтобы интегрировать эти навыки в свой рабочий инструмент (Claude Code, Cursor или любой другой).
+2. Настрой [Model Context Protocol (MCP)](./skills-propmts-agents/docs/mcp-setup.md) для предоставления ИИ доступа к базе данных или репозиториям.
+3. Выполни [Практические упражнения](./skills-propmts-agents/docs/exercises.md), чтобы увидеть работу агентов вживую на реальных примерах.
