@@ -16,7 +16,7 @@ docs/         → Руководства по настройке и практи
 ## Навыки по этапам (Phases)
 
 **Определение (Define):** spec-driven-development
-**Разработка (Build):** frontend-ui-engineering
+**Разработка (Build):** frontend-ui-engineering, dnote
 **Проверка (Verify):** debugging-and-error-recovery
 **Ревью (Review):** code-review-and-quality, performance-optimization, security-and-hardening, humanizer
 **Поставка (Ship):** ci-cd-and-automation, git-conventions
